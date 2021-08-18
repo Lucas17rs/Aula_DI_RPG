@@ -1,0 +1,16 @@
+F:\Workspace C#\Aula DI RPG\bin\Debug\net5.0\Aula DI RPG.exe
+F:\Workspace C#\Aula DI RPG\bin\Debug\net5.0\Aula DI RPG.deps.json
+F:\Workspace C#\Aula DI RPG\bin\Debug\net5.0\Aula DI RPG.runtimeconfig.json
+F:\Workspace C#\Aula DI RPG\bin\Debug\net5.0\Aula DI RPG.runtimeconfig.dev.json
+F:\Workspace C#\Aula DI RPG\bin\Debug\net5.0\Aula DI RPG.dll
+F:\Workspace C#\Aula DI RPG\bin\Debug\net5.0\ref\Aula DI RPG.dll
+F:\Workspace C#\Aula DI RPG\bin\Debug\net5.0\Aula DI RPG.pdb
+F:\Workspace C#\Aula DI RPG\obj\Debug\net5.0\Aula DI RPG.csprojAssemblyReference.cache
+F:\Workspace C#\Aula DI RPG\obj\Debug\net5.0\Aula DI RPG.GeneratedMSBuildEditorConfig.editorconfig
+F:\Workspace C#\Aula DI RPG\obj\Debug\net5.0\Aula DI RPG.AssemblyInfoInputs.cache
+F:\Workspace C#\Aula DI RPG\obj\Debug\net5.0\Aula DI RPG.AssemblyInfo.cs
+F:\Workspace C#\Aula DI RPG\obj\Debug\net5.0\Aula DI RPG.csproj.CoreCompileInputs.cache
+F:\Workspace C#\Aula DI RPG\obj\Debug\net5.0\Aula DI RPG.dll
+F:\Workspace C#\Aula DI RPG\obj\Debug\net5.0\ref\Aula DI RPG.dll
+F:\Workspace C#\Aula DI RPG\obj\Debug\net5.0\Aula DI RPG.pdb
+F:\Workspace C#\Aula DI RPG\obj\Debug\net5.0\Aula DI RPG.genruntimeconfig.cache
